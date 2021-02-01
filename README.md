@@ -1,16 +1,32 @@
-### Hi there 👋
+# Description
+## What about me ?
+Name: Marine
 
-<!--
-**Neyshaton/Neyshaton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Gender: ♀
 
-Here are some ideas to get you started:
+Age: 15yo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nationality: Belgian
+
+Birthday: 11th of February
+
+I like:
+* Video games (Csgo, Valorant, Dead by Daylight, Lol, Overwatch, ...)
+* Animes
+* Drawing
+* Music
+
+# Languages
+I'm new at programming so I don't know any language
+
+
+# Tools
+
+
+# Project(s)
+*Nothing*
+
+# Currently learning
+Python
+
+C#
