@@ -6,7 +6,7 @@
 
 🎂 Age: 15yo
 
-🇧🇪 Nationality: Belgian
+:belgium: Nationality: Belgian
 
 ❤️ I like:
 * Video games (Csgo, Valorant, Dead by Daylight, Lol, Overwatch, ...) 🎮
