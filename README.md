@@ -6,7 +6,7 @@
 
 🎂 Age: 15yo
 
-[<img align="center" alt="Belgium" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" />](Belgium) Nationality: Belgian
+[<img align="center" alt="Belgium" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" />]() Nationality: Belgian
 
 ❤️ I like:
 * Video games (Csgo, Valorant, Dead by Daylight, Lol, Overwatch, ...) 🎮
