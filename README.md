@@ -24,7 +24,7 @@ I'm new at programming so I don't know any language
 <br>
 
 ## Project(s)
-*Nothing*
+* A website/games to learn french easier
 
 ## Currently learning
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />](https://www.python.org)
