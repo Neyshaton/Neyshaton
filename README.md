@@ -2,7 +2,7 @@
 ## What about me ? 
 😃 Name: Marine
 
-♂️♀ Gender: ♀
+♂️♀ Gender: She/her
 
 🎂 Age: 17yo
 
