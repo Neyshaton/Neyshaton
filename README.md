@@ -4,7 +4,7 @@
 
 ♂️♀ Gender: ♀
 
-🎂 Age: 15yo
+🎂 Age: 17yo
 
 [<img align="center" alt="Belgium" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" />]() Nationality: Belgian
 
@@ -15,7 +15,7 @@
 * Music 🎶
 
 ## Languages
-I'm new at programming so I don't know any language
+[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />](https://www.python.org)
 
 
 ## Tools
@@ -27,7 +27,6 @@ I'm new at programming so I don't know any language
 * a website to learn French
 
 ## Currently learning
-[<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />](https://www.python.org)
 
 [<img aling="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" />]()
 
