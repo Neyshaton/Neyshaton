@@ -25,7 +25,7 @@
 <br>
 
 ## Project(s)
-* a website to learn French
+* A video game with Unity
 
 ## Currently learning
 
