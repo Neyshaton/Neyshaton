@@ -4,12 +4,12 @@
 
 ♂️♀ Gender: She/her
 
-🎂 Age: 17yo
+🎂 Age: 18yo
 
 [<img align="center" alt="Belgium" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" />]() Nationality: Belgian
 
 ❤️ I like:
-* Video games (Csgo, Valorant, Dead by Daylight, Lol, Overwatch, ...) 🎮
+* Video games (Csgo, Valorant, Dead by Daylight, Lol, Overwatch, Rainbow Six Siege, ...) 🎮
 * Animes ㊙️
 * Drawing ✏️
 * Music 🎶
@@ -26,6 +26,7 @@
 
 ## Project(s)
 * A video game with Unity
+* Website game
 
 ## Currently learning
 
