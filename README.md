@@ -8,6 +8,12 @@
 
 [<img align="center" alt="Belgium" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" />]() Nationality: Belgian
 
+🌍 Languages I speak:
+* [<img align="left" alt="fr" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"/>]()
+* [<img align="left" alt="eng" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1200px-Flag_of_the_United_Kingdom_%281-2%29.svg.png"/>]()
+* [<img align="left" alt="nl" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/255px-Flag_of_the_Netherlands.svg.png"/>]()
+* [<img align="left" alt="de" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"/>]() (currently learning)
+
 ❤️ I like:
 * Video games (Csgo, Valorant, Dead by Daylight, Lol, Overwatch, Rainbow Six Siege, ...) 🎮
 * Animes ㊙️
@@ -31,4 +37,5 @@
 ## Currently learning
 
 [<img aling="left" alt="C#" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" />]()
+[<img aling="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />]()
 
