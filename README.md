@@ -49,4 +49,4 @@
 <br>
 
 ![profile_views](https://komarev.com/ghpvc/?username=Neyshaton&color=ff69b4&style=for-the-badge)
-![last_release](https://badgen.net/github/last-commit/micromatch/micromatch&align=right)
+![last_release](https://img.shields.io/github/gist/last-commit/78321694?color=blue&style=for-the-badge)
