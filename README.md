@@ -48,4 +48,5 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Neyshaton&color=ff69b4&style=for-the-badge)
+![profile_views](https://komarev.com/ghpvc/?username=Neyshaton&color=ff69b4&style=for-the-badge)
+![last_release](https://badgen.net/github/last-commit/micromatch/micromatch&align=right)
