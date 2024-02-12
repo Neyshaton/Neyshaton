@@ -4,7 +4,7 @@
 
 ♂️♀ Gender: She/her
 
-🎂 Age: 18yo
+🎂 Age: 19yo
 
 [<img align="center" alt="Belgium" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" />]() Nationality: Belgian
 
