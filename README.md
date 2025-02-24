@@ -11,7 +11,6 @@ Hi ! I'm a 20 yo belgian CSi student. I have much interest in video game develop
 
 [<img aling="left" alt="JS" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />]()
 
-<br>
 
 ## Tools
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com)
