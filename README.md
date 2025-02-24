@@ -1,4 +1,4 @@
-Hi ! I'm a 20 yo belgian CSi student. I have much interest in video game development, website development and AI. 
+Hi ! I'm a 20 yo belgian CS student. I have much interest in video game development, website development and AI. 
 
 ## Languages
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />](https://www.python.org)
