@@ -1,24 +1,4 @@
-# Description
-## What about me ? 
-😃 Name: Marine
-
-♂️♀ Gender: She/her
-
-🎂 Age: 19yo
-
-[<img align="center" alt="Belgium" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg" />]() Nationality: Belgian
-
-🌍 Languages I speak:
-* [<img align="left" alt="French_flag" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"/>]()
-* [<img align="left" alt="English_flag" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/1200px-Flag_of_the_United_Kingdom_%281-2%29.svg.png"/>]()
-* [<img align="left" alt="Dutch_flag" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/255px-Flag_of_the_Netherlands.svg.png"/>]()
-* [<img align="left" alt="German_flag" width="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"/>]() (currently learning)
-
-❤️ I like:
-* Video games (Csgo, Valorant, Dead by Daylight, Lol, Overwatch, Rainbow Six Siege, ...) 🎮
-* Animes ㊙️
-* Drawing ✏️
-* Music 🎶
+Hi ! I'm a 20 yo belgian CSi student. I have much interest in video game development, website development and AI. 
 
 ## Languages
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />](https://www.python.org)
@@ -43,6 +23,7 @@
 ## Project(s)
 * A video game with Unity
 * Website game
+* Discord bot
 
 ## Currently learning
 
@@ -53,4 +34,3 @@
 <br>
 
 ![profile_views](https://komarev.com/ghpvc/?username=Neyshaton&color=ff69b4&style=for-the-badge)
-![last_release](https://img.shields.io/github/gist/last-commit/78321694?color=blue&style=for-the-badge)
